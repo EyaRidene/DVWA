@@ -1,6 +1,6 @@
 name: Semgrep
 on:
-  # Scan mainline branches and report all findings:
+  # Scan mainline branches and report all findings :
   push:
     branches: ["master", "main"]
   # Schedule the CI job (this method uses cron syntax):
